@@ -17,6 +17,7 @@ A full-stack finance management application built with React, Node.js, and Mongo
 
 -   React.js
 -   Tailwind CSS
+-   ShadCN - UI
 -   Recharts for data visualization
 -   React Router for navigation
 -   Vite as build tool
@@ -26,7 +27,11 @@ A full-stack finance management application built with React, Node.js, and Mongo
 -   Node.js
 -   Express.js
 -   MongoDB
--   Mongoose ODM
+
+### Hostings
+
+-   Frontend : Netlify.app
+-   Backend : AWS Lambda Serverless
 
 ## Getting Started
 
