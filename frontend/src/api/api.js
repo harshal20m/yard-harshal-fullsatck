@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://5r4xyclo0j.execute-api.ap-south-1.amazonaws.com/dev/api";
 
 export const getTransactions = () => axios.get(`${API_URL}/transactions`);
 export const addTransaction = (transaction) => axios.post(`${API_URL}/transactions`, transaction);
