@@ -41,7 +41,7 @@ A full-stack finance management application built with React, Node.js, and Mongo
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/finance-tracker.git
+git clone https://github.com/harshal20m/yard-harshal-fullsatck.git
 cd finance-tracker
 ```
 
@@ -85,28 +85,6 @@ npm run dev
 ```
 
 The application will be available at `http://localhost:5173`
-
-## Project Structure
-
-```
-finance-tracker/
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── api/
-│   │   └── App.jsx
-│   ├── package.json
-│   └── vite.config.js
-│
-└── backend/
-    ├── models/
-    ├── routes/
-    ├── controllers/
-    ├── config/
-    ├── server.js
-    └── package.json
-```
 
 ## API Endpoints
 
